@@ -1,6 +1,6 @@
 #你好git
 
-[English](./README.me)
+[English](READ_ZJH.md)
 
 这是我的第一个案例
 
